@@ -1,0 +1,10 @@
+.canvas {
+    border-color: gray;
+    border-style: solid;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.row {
+    display: flex;
+}
